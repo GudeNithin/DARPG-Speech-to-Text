@@ -76,3 +76,6 @@ def translate_file():
 
 if __name__ == '__main__':
   app.run(debug=True, host='0.0.0.0')
+
+
+#You Can View this Project Presentation at -- https://docs.google.com/presentation/d/1FRdCnOaCJXf3S8EfROqUDh1HdpDKj8jB/edit?usp=sharing&ouid=109133655382397210936&rtpof=true&sd=true
